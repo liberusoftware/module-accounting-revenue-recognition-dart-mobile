@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-revenue-recognition-dart-mobile",
+  "capabilityKey": "liberusoftware/module-accounting-revenue-recognition",
+  "presentation": "dart-mobile",
+  "package": "module_accounting_revenue_recognition_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/accounting/nextjs/revenue-recognition.md",
+  "presentationPlan": "projects/accounting/features/revenue-recognition.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
